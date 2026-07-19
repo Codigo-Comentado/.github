@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./profile/assets/banner.png" alt="Código Comentado - Aprender Programação Ensinando Programação" width="100%" />
+<img src="https://github.com/Codigo-Comentado/.github/blob/main/profile/assets/banner.png?raw=true" alt="Código Comentado — Aprender Programação Ensinando Programação" width="100%" />
 <br/>
   
 ![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square)
