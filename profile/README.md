@@ -39,10 +39,17 @@ Antes de aprovar um Pull Request, perguntamos: *um iniciante conseguiria aprende
 | Repositório | Descrição |
 |---|---|
 | [Codigo_comentado](https://github.com/Codigo-Comentado/Codigo_comentado) | Repositório principal, todo o conteúdo em Java, Python e JavaScript |
+
  
 ## 🤝 Como contribuir
  
 Toda contribuição é bem-vinda. Comece pelo [Guia de Primeiros Passos](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/GETTING_STARTED.md) e pelo [Guia de Contribuição](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/CONTRIBUTING.md).
+
+
+## 💬 Comunidade
+
+Faça parte da nossa comunidade e converse com outros colaboradores: [Entrar no grupo do WhatsApp](https://chat.whatsapp.com/Lazbf8MPyYm7tNLt8mVrkX)
+
  
 ## 📜 Manifesto
  
