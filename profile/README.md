@@ -45,16 +45,11 @@ Antes de aprovar um Pull Request, perguntamos: *um iniciante conseguiria aprende
  
 Toda contribuição é bem-vinda. Comece pelo [Guia de Primeiros Passos](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/GETTING_STARTED.md) e pelo [Guia de Contribuição](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/CONTRIBUTING.md).
 
-
-## 💬 Comunidade
-
-Faça parte da nossa comunidade e converse com outros colaboradores: [Entrar no grupo do WhatsApp](https://chat.whatsapp.com/Lazbf8MPyYm7tNLt8mVrkX)
-
-
 ## 🌐 Nossas Redes Sociais
 
 <div align="center">
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Lazbf8MPyYm7tNLt8mVrkX)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CódigoComentado)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@codigocomentado)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codigo_comentado/)
