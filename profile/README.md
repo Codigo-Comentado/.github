@@ -12,16 +12,31 @@
 
  
 ## 🎯 Sobre
+
+O **Código Comentado** é uma organização colaborativa de aprendizado que reúne materiais didáticos de programação em múltiplas linguagens, como Java, Python, JavaScript e outras tecnologias.
+
+Cada conteúdo criado dentro da organização vai além de um código funcional: ele busca explicar o que está sendo feito, por que aquele conceito existe e como aplicá-lo na prática.
+
+Acreditamos que código também pode ser uma ferramenta de ensino. Por isso, cada exemplo é construído pensando em quem está aprendendo e precisa entender não apenas **como fazer**, mas principalmente **por que fazer**.
  
-O **Código Comentado** é um projeto colaborativo de aprendizado que reúne, em um único repositório, explicações comentadas de conceitos de programação em múltiplas linguagens, Java, Python, JavaScript etc.
- 
-Cada arquivo não é só código funcional: é um pequeno material didático, explicando o que é, por que existe e como aplicar cada conceito na prática. Como uma bula, para quem está aprendendo a programar.
- 
+## 🌎 Nossa Missão
+
+Tornar o aprendizado de programação mais acessível através do conhecimento compartilhado.
+
+O Código Comentado nasceu da ideia de que ensinar é uma das formas mais eficientes de aprender. Ao explicar conceitos, comentar códigos e compartilhar experiências, fortalecemos tanto quem ensina quanto quem está aprendendo.
+
+Nosso objetivo é construir uma biblioteca colaborativa de conhecimento, onde programadores possam evoluir juntos.
+
+
 ## 🥇 Nossa Regra de Ouro
- 
+
 > **Todo Pull Request deve agregar conhecimento, não apenas código.**
- 
-Antes de aprovar um Pull Request, perguntamos: *um iniciante conseguiria aprender esse conceito apenas lendo o arquivo?*
+
+Antes de aprovar uma contribuição, fazemos uma pergunta:
+
+*"Uma pessoa iniciante conseguiria aprender esse conceito apenas lendo esse conteúdo?"*
+
+Se a resposta for sim, estamos no caminho certo.
  
 ## 💎 O que valorizamos
  
@@ -34,16 +49,27 @@ Antes de aprovar um Pull Request, perguntamos: *um iniciante conseguiria aprende
 | 🔄 | Evolução contínua |
 | 👋 | Respeito ao iniciante |
  
-## 📚 Repositórios
- 
-| Repositório | Descrição |
+
+## 🏗️ Nossos Projetos
+
+A organização reúne projetos e materiais voltados para o aprendizado colaborativo de programação.
+
+| Projeto | Descrição |
 |---|---|
-| [Codigo_comentado](https://github.com/Codigo-Comentado/Codigo_comentado) | Repositório principal, todo o conteúdo em Java, Python e JavaScript |
+| [Codigo_comentado](https://github.com/Codigo-Comentado/Codigo_comentado) | Biblioteca principal de conteúdos didáticos com exemplos comentados de programação |
 
  
-## 🤝 Como contribuir
- 
-Toda contribuição é bem-vinda. Comece pelo [Guia de Primeiros Passos](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/GETTING_STARTED.md) e pelo [Guia de Contribuição](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/CONTRIBUTING.md).
+## 🤝 Como participar
+
+Toda contribuição é bem-vinda.
+
+Você não precisa ser especialista para fazer parte da comunidade. O Código Comentado foi criado para que pessoas possam aprender enquanto colaboram.
+
+Comece conhecendo:
+
+- [Guia de Primeiros Passos](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/GETTING_STARTED.md)
+- [Guia de Contribuição](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/CONTRIBUTING.md)
+
 
 ## 🌐 Nossas Redes Sociais
 
@@ -58,12 +84,15 @@ Toda contribuição é bem-vinda. Comece pelo [Guia de Primeiros Passos](https:/
 </div>
 
  
+
 ## 📜 Manifesto
- 
+
 Acreditamos que conhecimento compartilhado vale mais do que conhecimento guardado.
- 
-Cada linha de código deve ensinar algo. Cada comentário deve reduzir uma dúvida. Cada Pull Request deve tornar o projeto melhor do que estava antes.
- 
+
+Cada linha de código deve ensinar algo.  
+Cada comentário deve reduzir uma dúvida.  
+Cada contribuição deve tornar a comunidade melhor do que estava antes.
+
 ---
  
 <div align="center">
