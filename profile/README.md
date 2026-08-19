@@ -71,7 +71,27 @@ Comece conhecendo:
 - [Guia de Contribuição](https://github.com/Codigo-Comentado/Codigo_comentado/blob/develop/CONTRIBUTING.md)
 
 
+
+## 🏆 Ranking de Colaboradores
+
+No **Código Comentado**, cada contribuição ajuda a construir uma comunidade mais forte e um conteúdo educacional cada vez melhor.
+
+Para reconhecer quem participa ativamente dessa construção, mantemos um **Ranking de Colaboradores**, acompanhando as contribuições realizadas nos projetos da organização.
+
+O ranking é uma forma de valorizar a participação da comunidade, incentivar a colaboração e dar visibilidade a quem ajuda o **Código Comentado** a evoluir.
+
+<p align="center">
+  <a href="https://fxarth.github.io/Ranking-Codigo_Comentado/">
+    <img src="https://img.shields.io/badge/🏆_ACESSAR_RANKING-DE_COLABORADORES-7C3AED?style=for-the-badge" alt="Ranking de Colaboradores">
+  </a>
+</p>
+
+<p align="center">
+  <sub>💙 Cada contribuição conta. Cada colaborador faz parte dessa construção.</sub>
+</p>
+
 ## 🌐 Nossas Redes Sociais
+
 
 <div align="center">
 
